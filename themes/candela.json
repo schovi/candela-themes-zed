@@ -1,0 +1,1735 @@
+{
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
+  "name": "Candela",
+  "author": "Candela",
+  "themes": [
+    {
+      "name": "Candela 01 · Sepia Paper",
+      "appearance": "light",
+      "style": {
+        "background": "#f2ecdf",
+        "surface.background": "#fbf7ee",
+        "elevated_surface.background": "#fbf7ee",
+        "border": "#e3dac6",
+        "border.variant": "#e3dac6",
+        "text": "#322f28",
+        "text.muted": "#5f584b",
+        "text.placeholder": "#716955",
+        "editor.foreground": "#322f28",
+        "editor.background": "#fbf7ee",
+        "editor.gutter.background": "#fbf7ee",
+        "editor.line_number": "#5f584b",
+        "editor.active_line_number": "#322f28",
+        "editor.active_line.background": "#f6f0e4",
+        "editor.document_highlight.read_background": "#e6dcc0",
+        "terminal.background": "#fbf7ee",
+        "terminal.foreground": "#322f28",
+        "error": "#853e33",
+        "warning": "#795b2f",
+        "success": "#2d7557",
+        "players": [
+          {
+            "cursor": "#322f28",
+            "selection": "#e6dcc0",
+            "background": "#322f28"
+          }
+        ],
+        "terminal.ansi.black": "#322f28",
+        "terminal.ansi.bright_black": "#5f584b",
+        "terminal.ansi.red": "#925e21",
+        "terminal.ansi.bright_red": "#853e33",
+        "terminal.ansi.green": "#5a6b39",
+        "terminal.ansi.bright_green": "#2d7557",
+        "terminal.ansi.yellow": "#9a5b2c",
+        "terminal.ansi.bright_yellow": "#795b2f",
+        "terminal.ansi.blue": "#30577d",
+        "terminal.ansi.bright_blue": "#30577d",
+        "terminal.ansi.magenta": "#7b5595",
+        "terminal.ansi.bright_magenta": "#7b5595",
+        "terminal.ansi.cyan": "#2c7567",
+        "terminal.ansi.bright_cyan": "#2c7567",
+        "terminal.ansi.white": "#716955",
+        "terminal.ansi.bright_white": "#fbf7ee",
+        "syntax": {
+          "keyword": {
+            "color": "#9a5b2c"
+          },
+          "string": {
+            "color": "#5a6b39"
+          },
+          "string.special": {
+            "color": "#5a6b39"
+          },
+          "string.escape": {
+            "color": "#5a6b39"
+          },
+          "function": {
+            "color": "#30577d"
+          },
+          "function.method": {
+            "color": "#30577d"
+          },
+          "number": {
+            "color": "#925e21"
+          },
+          "boolean": {
+            "color": "#925e21"
+          },
+          "constant": {
+            "color": "#925e21"
+          },
+          "type": {
+            "color": "#7b5595"
+          },
+          "constructor": {
+            "color": "#7b5595"
+          },
+          "variable.special": {
+            "color": "#2c7567"
+          },
+          "attribute": {
+            "color": "#2c7567"
+          },
+          "operator": {
+            "color": "#6e685c"
+          },
+          "punctuation": {
+            "color": "#6e685c"
+          },
+          "punctuation.bracket": {
+            "color": "#6e685c"
+          },
+          "punctuation.delimiter": {
+            "color": "#6e685c"
+          },
+          "comment": {
+            "color": "#716955"
+          },
+          "comment.doc": {
+            "color": "#716955"
+          }
+        }
+      }
+    },
+    {
+      "name": "Candela 02 · Slate Mist",
+      "appearance": "light",
+      "style": {
+        "background": "#e8edf3",
+        "surface.background": "#f6f8fb",
+        "elevated_surface.background": "#f6f8fb",
+        "border": "#d5dde7",
+        "border.variant": "#d5dde7",
+        "text": "#29323d",
+        "text.muted": "#54606d",
+        "text.placeholder": "#5f6b78",
+        "editor.foreground": "#29323d",
+        "editor.background": "#f6f8fb",
+        "editor.gutter.background": "#f6f8fb",
+        "editor.line_number": "#54606d",
+        "editor.active_line_number": "#29323d",
+        "editor.active_line.background": "#eef2f7",
+        "editor.document_highlight.read_background": "#d3deec",
+        "terminal.background": "#f6f8fb",
+        "terminal.foreground": "#29323d",
+        "error": "#824035",
+        "warning": "#785b31",
+        "success": "#307458",
+        "players": [
+          {
+            "cursor": "#29323d",
+            "selection": "#d3deec",
+            "background": "#29323d"
+          }
+        ],
+        "terminal.ansi.black": "#29323d",
+        "terminal.ansi.bright_black": "#54606d",
+        "terminal.ansi.red": "#9c5365",
+        "terminal.ansi.bright_red": "#824035",
+        "terminal.ansi.green": "#41745a",
+        "terminal.ansi.bright_green": "#307458",
+        "terminal.ansi.yellow": "#7159a0",
+        "terminal.ansi.bright_yellow": "#785b31",
+        "terminal.ansi.blue": "#2d6a8f",
+        "terminal.ansi.bright_blue": "#2d6a8f",
+        "terminal.ansi.magenta": "#995a2b",
+        "terminal.ansi.bright_magenta": "#995a2b",
+        "terminal.ansi.cyan": "#297284",
+        "terminal.ansi.bright_cyan": "#297284",
+        "terminal.ansi.white": "#5f6b78",
+        "terminal.ansi.bright_white": "#f6f8fb",
+        "syntax": {
+          "keyword": {
+            "color": "#7159a0"
+          },
+          "string": {
+            "color": "#41745a"
+          },
+          "string.special": {
+            "color": "#41745a"
+          },
+          "string.escape": {
+            "color": "#41745a"
+          },
+          "function": {
+            "color": "#2d6a8f"
+          },
+          "function.method": {
+            "color": "#2d6a8f"
+          },
+          "number": {
+            "color": "#9c5365"
+          },
+          "boolean": {
+            "color": "#9c5365"
+          },
+          "constant": {
+            "color": "#9c5365"
+          },
+          "type": {
+            "color": "#995a2b"
+          },
+          "constructor": {
+            "color": "#995a2b"
+          },
+          "variable.special": {
+            "color": "#297284"
+          },
+          "attribute": {
+            "color": "#297284"
+          },
+          "operator": {
+            "color": "#5f6a7a"
+          },
+          "punctuation": {
+            "color": "#5f6a7a"
+          },
+          "punctuation.bracket": {
+            "color": "#5f6a7a"
+          },
+          "punctuation.delimiter": {
+            "color": "#5f6a7a"
+          },
+          "comment": {
+            "color": "#5f6b78"
+          },
+          "comment.doc": {
+            "color": "#5f6b78"
+          }
+        }
+      }
+    },
+    {
+      "name": "Candela 03 · Sage",
+      "appearance": "light",
+      "style": {
+        "background": "#edf1e9",
+        "surface.background": "#f6f9f2",
+        "elevated_surface.background": "#f6f9f2",
+        "border": "#d9dfd0",
+        "border.variant": "#d9dfd0",
+        "text": "#2c322a",
+        "text.muted": "#565d51",
+        "text.placeholder": "#656e5c",
+        "editor.foreground": "#2c322a",
+        "editor.background": "#f6f9f2",
+        "editor.gutter.background": "#f6f9f2",
+        "editor.line_number": "#565d51",
+        "editor.active_line_number": "#2c322a",
+        "editor.active_line.background": "#f0f4ea",
+        "editor.document_highlight.read_background": "#dde6cf",
+        "terminal.background": "#f6f9f2",
+        "terminal.foreground": "#2c322a",
+        "error": "#854137",
+        "warning": "#775e31",
+        "success": "#317477",
+        "players": [
+          {
+            "cursor": "#2c322a",
+            "selection": "#dde6cf",
+            "background": "#2c322a"
+          }
+        ],
+        "terminal.ansi.black": "#2c322a",
+        "terminal.ansi.bright_black": "#565d51",
+        "terminal.ansi.red": "#85662d",
+        "terminal.ansi.bright_red": "#854137",
+        "terminal.ansi.green": "#3f6d93",
+        "terminal.ansi.bright_green": "#317477",
+        "terminal.ansi.yellow": "#a2582b",
+        "terminal.ansi.bright_yellow": "#775e31",
+        "terminal.ansi.blue": "#2d7766",
+        "terminal.ansi.bright_blue": "#2d7766",
+        "terminal.ansi.magenta": "#6b5aa0",
+        "terminal.ansi.bright_magenta": "#6b5aa0",
+        "terminal.ansi.cyan": "#a15466",
+        "terminal.ansi.bright_cyan": "#a15466",
+        "terminal.ansi.white": "#656e5c",
+        "terminal.ansi.bright_white": "#f6f9f2",
+        "syntax": {
+          "keyword": {
+            "color": "#a2582b"
+          },
+          "string": {
+            "color": "#3f6d93"
+          },
+          "string.special": {
+            "color": "#3f6d93"
+          },
+          "string.escape": {
+            "color": "#3f6d93"
+          },
+          "function": {
+            "color": "#2d7766"
+          },
+          "function.method": {
+            "color": "#2d7766"
+          },
+          "number": {
+            "color": "#85662d"
+          },
+          "boolean": {
+            "color": "#85662d"
+          },
+          "constant": {
+            "color": "#85662d"
+          },
+          "type": {
+            "color": "#6b5aa0"
+          },
+          "constructor": {
+            "color": "#6b5aa0"
+          },
+          "variable.special": {
+            "color": "#a15466"
+          },
+          "attribute": {
+            "color": "#a15466"
+          },
+          "operator": {
+            "color": "#686d60"
+          },
+          "punctuation": {
+            "color": "#686d60"
+          },
+          "punctuation.bracket": {
+            "color": "#686d60"
+          },
+          "punctuation.delimiter": {
+            "color": "#686d60"
+          },
+          "comment": {
+            "color": "#656e5c"
+          },
+          "comment.doc": {
+            "color": "#656e5c"
+          }
+        }
+      }
+    },
+    {
+      "name": "Candela 04 · Solarized Lite",
+      "appearance": "light",
+      "style": {
+        "background": "#f6efd8",
+        "surface.background": "#fbf6e6",
+        "elevated_surface.background": "#fbf6e6",
+        "border": "#e6dcc0",
+        "border.variant": "#e6dcc0",
+        "text": "#33362c",
+        "text.muted": "#5c5f52",
+        "text.placeholder": "#706b54",
+        "editor.foreground": "#33362c",
+        "editor.background": "#fbf6e6",
+        "editor.gutter.background": "#fbf6e6",
+        "editor.line_number": "#5c5f52",
+        "editor.active_line_number": "#33362c",
+        "editor.active_line.background": "#f1e9cd",
+        "editor.document_highlight.read_background": "#e9dfbf",
+        "terminal.background": "#fbf6e6",
+        "terminal.foreground": "#33362c",
+        "error": "#874022",
+        "warning": "#805b20",
+        "success": "#237754",
+        "players": [
+          {
+            "cursor": "#33362c",
+            "selection": "#e9dfbf",
+            "background": "#33362c"
+          }
+        ],
+        "terminal.ansi.black": "#33362c",
+        "terminal.ansi.bright_black": "#5c5f52",
+        "terminal.ansi.red": "#b02a68",
+        "terminal.ansi.bright_red": "#874022",
+        "terminal.ansi.green": "#5f7300",
+        "terminal.ansi.bright_green": "#237754",
+        "terminal.ansi.yellow": "#b7420f",
+        "terminal.ansi.bright_yellow": "#805b20",
+        "terminal.ansi.blue": "#1f6fa8",
+        "terminal.ansi.bright_blue": "#1f6fa8",
+        "terminal.ansi.magenta": "#5257a8",
+        "terminal.ansi.bright_magenta": "#5257a8",
+        "terminal.ansi.cyan": "#1a776f",
+        "terminal.ansi.bright_cyan": "#1a776f",
+        "terminal.ansi.white": "#706b54",
+        "terminal.ansi.bright_white": "#fbf6e6",
+        "syntax": {
+          "keyword": {
+            "color": "#b7420f"
+          },
+          "string": {
+            "color": "#5f7300"
+          },
+          "string.special": {
+            "color": "#5f7300"
+          },
+          "string.escape": {
+            "color": "#5f7300"
+          },
+          "function": {
+            "color": "#1f6fa8"
+          },
+          "function.method": {
+            "color": "#1f6fa8"
+          },
+          "number": {
+            "color": "#b02a68"
+          },
+          "boolean": {
+            "color": "#b02a68"
+          },
+          "constant": {
+            "color": "#b02a68"
+          },
+          "type": {
+            "color": "#5257a8"
+          },
+          "constructor": {
+            "color": "#5257a8"
+          },
+          "variable.special": {
+            "color": "#1a776f"
+          },
+          "attribute": {
+            "color": "#1a776f"
+          },
+          "operator": {
+            "color": "#6a6d5c"
+          },
+          "punctuation": {
+            "color": "#6a6d5c"
+          },
+          "punctuation.bracket": {
+            "color": "#6a6d5c"
+          },
+          "punctuation.delimiter": {
+            "color": "#6a6d5c"
+          },
+          "comment": {
+            "color": "#706b54"
+          },
+          "comment.doc": {
+            "color": "#706b54"
+          }
+        }
+      }
+    },
+    {
+      "name": "Candela 05 · Blossom",
+      "appearance": "light",
+      "style": {
+        "background": "#fbeef2",
+        "surface.background": "#fef7f9",
+        "elevated_surface.background": "#fef7f9",
+        "border": "#f0d8e0",
+        "border.variant": "#f0d8e0",
+        "text": "#3a2f36",
+        "text.muted": "#6b5a63",
+        "text.placeholder": "#896173",
+        "editor.foreground": "#3a2f36",
+        "editor.background": "#fef7f9",
+        "editor.gutter.background": "#fef7f9",
+        "editor.line_number": "#6b5a63",
+        "editor.active_line_number": "#3a2f36",
+        "editor.active_line.background": "#fbeaf0",
+        "editor.document_highlight.read_background": "#f4dce6",
+        "terminal.background": "#fef7f9",
+        "terminal.foreground": "#3a2f36",
+        "error": "#864331",
+        "warning": "#7e5d2d",
+        "success": "#2b7673",
+        "players": [
+          {
+            "cursor": "#3a2f36",
+            "selection": "#f4dce6",
+            "background": "#3a2f36"
+          }
+        ],
+        "terminal.ansi.black": "#3a2f36",
+        "terminal.ansi.bright_black": "#6b5a63",
+        "terminal.ansi.red": "#b24e32",
+        "terminal.ansi.bright_red": "#864331",
+        "terminal.ansi.green": "#7a5aa8",
+        "terminal.ansi.bright_green": "#2b7673",
+        "terminal.ansi.yellow": "#c0397a",
+        "terminal.ansi.bright_yellow": "#7e5d2d",
+        "terminal.ansi.blue": "#2a4e76",
+        "terminal.ansi.bright_blue": "#2a4e76",
+        "terminal.ansi.magenta": "#a03e86",
+        "terminal.ansi.bright_magenta": "#a03e86",
+        "terminal.ansi.cyan": "#297774",
+        "terminal.ansi.bright_cyan": "#297774",
+        "terminal.ansi.white": "#896173",
+        "terminal.ansi.bright_white": "#fef7f9",
+        "syntax": {
+          "keyword": {
+            "color": "#c0397a"
+          },
+          "string": {
+            "color": "#7a5aa8"
+          },
+          "string.special": {
+            "color": "#7a5aa8"
+          },
+          "string.escape": {
+            "color": "#7a5aa8"
+          },
+          "function": {
+            "color": "#2a4e76"
+          },
+          "function.method": {
+            "color": "#2a4e76"
+          },
+          "number": {
+            "color": "#b24e32"
+          },
+          "boolean": {
+            "color": "#b24e32"
+          },
+          "constant": {
+            "color": "#b24e32"
+          },
+          "type": {
+            "color": "#a03e86"
+          },
+          "constructor": {
+            "color": "#a03e86"
+          },
+          "variable.special": {
+            "color": "#297774"
+          },
+          "attribute": {
+            "color": "#297774"
+          },
+          "operator": {
+            "color": "#786871"
+          },
+          "punctuation": {
+            "color": "#786871"
+          },
+          "punctuation.bracket": {
+            "color": "#786871"
+          },
+          "punctuation.delimiter": {
+            "color": "#786871"
+          },
+          "comment": {
+            "color": "#896173"
+          },
+          "comment.doc": {
+            "color": "#896173"
+          }
+        }
+      }
+    },
+    {
+      "name": "Candela 06 · Lagoon",
+      "appearance": "light",
+      "style": {
+        "background": "#e5f1f2",
+        "surface.background": "#f4fafb",
+        "elevated_surface.background": "#f4fafb",
+        "border": "#cfe2e4",
+        "border.variant": "#cfe2e4",
+        "text": "#24333a",
+        "text.muted": "#4f6169",
+        "text.placeholder": "#566f75",
+        "editor.foreground": "#24333a",
+        "editor.background": "#f4fafb",
+        "editor.gutter.background": "#f4fafb",
+        "editor.line_number": "#4f6169",
+        "editor.active_line_number": "#24333a",
+        "editor.active_line.background": "#ecf5f6",
+        "editor.document_highlight.read_background": "#d0e6e8",
+        "terminal.background": "#f4fafb",
+        "terminal.foreground": "#24333a",
+        "error": "#8e3a2d",
+        "warning": "#7e5b28",
+        "success": "#267755",
+        "players": [
+          {
+            "cursor": "#24333a",
+            "selection": "#d0e6e8",
+            "background": "#24333a"
+          }
+        ],
+        "terminal.ansi.black": "#24333a",
+        "terminal.ansi.bright_black": "#4f6169",
+        "terminal.ansi.red": "#b34843",
+        "terminal.ansi.bright_red": "#8e3a2d",
+        "terminal.ansi.green": "#37774e",
+        "terminal.ansi.bright_green": "#267755",
+        "terminal.ansi.yellow": "#0e748f",
+        "terminal.ansi.bright_yellow": "#7e5b28",
+        "terminal.ansi.blue": "#29629b",
+        "terminal.ansi.bright_blue": "#29629b",
+        "terminal.ansi.magenta": "#7a5aa8",
+        "terminal.ansi.bright_magenta": "#7a5aa8",
+        "terminal.ansi.cyan": "#9a5c29",
+        "terminal.ansi.bright_cyan": "#9a5c29",
+        "terminal.ansi.white": "#566f75",
+        "terminal.ansi.bright_white": "#f4fafb",
+        "syntax": {
+          "keyword": {
+            "color": "#0e748f"
+          },
+          "string": {
+            "color": "#37774e"
+          },
+          "string.special": {
+            "color": "#37774e"
+          },
+          "string.escape": {
+            "color": "#37774e"
+          },
+          "function": {
+            "color": "#29629b"
+          },
+          "function.method": {
+            "color": "#29629b"
+          },
+          "number": {
+            "color": "#b34843"
+          },
+          "boolean": {
+            "color": "#b34843"
+          },
+          "constant": {
+            "color": "#b34843"
+          },
+          "type": {
+            "color": "#7a5aa8"
+          },
+          "constructor": {
+            "color": "#7a5aa8"
+          },
+          "variable.special": {
+            "color": "#9a5c29"
+          },
+          "attribute": {
+            "color": "#9a5c29"
+          },
+          "operator": {
+            "color": "#5c6d76"
+          },
+          "punctuation": {
+            "color": "#5c6d76"
+          },
+          "punctuation.bracket": {
+            "color": "#5c6d76"
+          },
+          "punctuation.delimiter": {
+            "color": "#5c6d76"
+          },
+          "comment": {
+            "color": "#566f75"
+          },
+          "comment.doc": {
+            "color": "#566f75"
+          }
+        }
+      }
+    },
+    {
+      "name": "Candela 07 · Meadow",
+      "appearance": "light",
+      "style": {
+        "background": "#ecf3e4",
+        "surface.background": "#f6faf0",
+        "elevated_surface.background": "#f6faf0",
+        "border": "#d7e4c8",
+        "border.variant": "#d7e4c8",
+        "text": "#2c342a",
+        "text.muted": "#556150",
+        "text.placeholder": "#627055",
+        "editor.foreground": "#2c342a",
+        "editor.background": "#f6faf0",
+        "editor.gutter.background": "#f6faf0",
+        "editor.line_number": "#556150",
+        "editor.active_line_number": "#2c342a",
+        "editor.active_line.background": "#f0f6e9",
+        "editor.document_highlight.read_background": "#dcecc9",
+        "terminal.background": "#f6faf0",
+        "terminal.foreground": "#2c342a",
+        "error": "#8a3f32",
+        "warning": "#7d5d2e",
+        "success": "#2c7858",
+        "players": [
+          {
+            "cursor": "#2c342a",
+            "selection": "#dcecc9",
+            "background": "#2c342a"
+          }
+        ],
+        "terminal.ansi.black": "#2c342a",
+        "terminal.ansi.bright_black": "#556150",
+        "terminal.ansi.red": "#966025",
+        "terminal.ansi.bright_red": "#8a3f32",
+        "terminal.ansi.green": "#3c6f9f",
+        "terminal.ansi.bright_green": "#2c7858",
+        "terminal.ansi.yellow": "#417929",
+        "terminal.ansi.bright_yellow": "#7d5d2e",
+        "terminal.ansi.blue": "#297962",
+        "terminal.ansi.bright_blue": "#297962",
+        "terminal.ansi.magenta": "#8a5aa0",
+        "terminal.ansi.bright_magenta": "#8a5aa0",
+        "terminal.ansi.cyan": "#b0503f",
+        "terminal.ansi.bright_cyan": "#b0503f",
+        "terminal.ansi.white": "#627055",
+        "terminal.ansi.bright_white": "#f6faf0",
+        "syntax": {
+          "keyword": {
+            "color": "#417929"
+          },
+          "string": {
+            "color": "#3c6f9f"
+          },
+          "string.special": {
+            "color": "#3c6f9f"
+          },
+          "string.escape": {
+            "color": "#3c6f9f"
+          },
+          "function": {
+            "color": "#297962"
+          },
+          "function.method": {
+            "color": "#297962"
+          },
+          "number": {
+            "color": "#966025"
+          },
+          "boolean": {
+            "color": "#966025"
+          },
+          "constant": {
+            "color": "#966025"
+          },
+          "type": {
+            "color": "#8a5aa0"
+          },
+          "constructor": {
+            "color": "#8a5aa0"
+          },
+          "variable.special": {
+            "color": "#b0503f"
+          },
+          "attribute": {
+            "color": "#b0503f"
+          },
+          "operator": {
+            "color": "#646f5d"
+          },
+          "punctuation": {
+            "color": "#646f5d"
+          },
+          "punctuation.bracket": {
+            "color": "#646f5d"
+          },
+          "punctuation.delimiter": {
+            "color": "#646f5d"
+          },
+          "comment": {
+            "color": "#627055"
+          },
+          "comment.doc": {
+            "color": "#627055"
+          }
+        }
+      }
+    },
+    {
+      "name": "Candela 08 · Apricot",
+      "appearance": "light",
+      "style": {
+        "background": "#fdeede",
+        "surface.background": "#fff8f0",
+        "elevated_surface.background": "#fff8f0",
+        "border": "#f2ddc6",
+        "border.variant": "#f2ddc6",
+        "text": "#3a3128",
+        "text.muted": "#6b5c4c",
+        "text.placeholder": "#836647",
+        "editor.foreground": "#3a3128",
+        "editor.background": "#fff8f0",
+        "editor.gutter.background": "#fff8f0",
+        "editor.line_number": "#6b5c4c",
+        "editor.active_line_number": "#3a3128",
+        "editor.active_line.background": "#fceadb",
+        "editor.document_highlight.read_background": "#f7ddc4",
+        "terminal.background": "#fff8f0",
+        "terminal.foreground": "#3a3128",
+        "error": "#8c3d31",
+        "warning": "#7d5d2c",
+        "success": "#2a7858",
+        "players": [
+          {
+            "cursor": "#3a3128",
+            "selection": "#f7ddc4",
+            "background": "#3a3128"
+          }
+        ],
+        "terminal.ansi.black": "#3a3128",
+        "terminal.ansi.bright_black": "#6b5c4c",
+        "terminal.ansi.red": "#b03e6a",
+        "terminal.ansi.bright_red": "#8c3d31",
+        "terminal.ansi.green": "#67712c",
+        "terminal.ansi.bright_green": "#2a7858",
+        "terminal.ansi.yellow": "#ac521d",
+        "terminal.ansi.bright_yellow": "#7d5d2c",
+        "terminal.ansi.blue": "#365f8f",
+        "terminal.ansi.bright_blue": "#365f8f",
+        "terminal.ansi.magenta": "#7a5aa8",
+        "terminal.ansi.bright_magenta": "#7a5aa8",
+        "terminal.ansi.cyan": "#29776f",
+        "terminal.ansi.bright_cyan": "#29776f",
+        "terminal.ansi.white": "#836647",
+        "terminal.ansi.bright_white": "#fff8f0",
+        "syntax": {
+          "keyword": {
+            "color": "#ac521d"
+          },
+          "string": {
+            "color": "#67712c"
+          },
+          "string.special": {
+            "color": "#67712c"
+          },
+          "string.escape": {
+            "color": "#67712c"
+          },
+          "function": {
+            "color": "#365f8f"
+          },
+          "function.method": {
+            "color": "#365f8f"
+          },
+          "number": {
+            "color": "#b03e6a"
+          },
+          "boolean": {
+            "color": "#b03e6a"
+          },
+          "constant": {
+            "color": "#b03e6a"
+          },
+          "type": {
+            "color": "#7a5aa8"
+          },
+          "constructor": {
+            "color": "#7a5aa8"
+          },
+          "variable.special": {
+            "color": "#29776f"
+          },
+          "attribute": {
+            "color": "#29776f"
+          },
+          "operator": {
+            "color": "#796958"
+          },
+          "punctuation": {
+            "color": "#796958"
+          },
+          "punctuation.bracket": {
+            "color": "#796958"
+          },
+          "punctuation.delimiter": {
+            "color": "#796958"
+          },
+          "comment": {
+            "color": "#836647"
+          },
+          "comment.doc": {
+            "color": "#836647"
+          }
+        }
+      }
+    },
+    {
+      "name": "Candela 09 · Periwinkle",
+      "appearance": "light",
+      "style": {
+        "background": "#eeeefb",
+        "surface.background": "#f8f8fe",
+        "elevated_surface.background": "#f8f8fe",
+        "border": "#dcdcf0",
+        "border.variant": "#dcdcf0",
+        "text": "#2e2f3d",
+        "text.muted": "#585a6d",
+        "text.placeholder": "#656892",
+        "editor.foreground": "#2e2f3d",
+        "editor.background": "#f8f8fe",
+        "editor.gutter.background": "#f8f8fe",
+        "editor.line_number": "#585a6d",
+        "editor.active_line_number": "#2e2f3d",
+        "editor.active_line.background": "#eaeaf8",
+        "editor.document_highlight.read_background": "#dedef3",
+        "terminal.background": "#f8f8fe",
+        "terminal.foreground": "#2e2f3d",
+        "error": "#8b3d30",
+        "warning": "#7d5c2c",
+        "success": "#297572",
+        "players": [
+          {
+            "cursor": "#2e2f3d",
+            "selection": "#dedef3",
+            "background": "#2e2f3d"
+          }
+        ],
+        "terminal.ansi.black": "#2e2f3d",
+        "terminal.ansi.bright_black": "#585a6d",
+        "terminal.ansi.red": "#b34467",
+        "terminal.ansi.bright_red": "#8b3d30",
+        "terminal.ansi.green": "#3c6f97",
+        "terminal.ansi.bright_green": "#297572",
+        "terminal.ansi.yellow": "#5a4fc0",
+        "terminal.ansi.bright_yellow": "#7d5c2c",
+        "terminal.ansi.blue": "#7a3fb0",
+        "terminal.ansi.bright_blue": "#7a3fb0",
+        "terminal.ansi.magenta": "#287673",
+        "terminal.ansi.bright_magenta": "#287673",
+        "terminal.ansi.cyan": "#9a5c29",
+        "terminal.ansi.bright_cyan": "#9a5c29",
+        "terminal.ansi.white": "#656892",
+        "terminal.ansi.bright_white": "#f8f8fe",
+        "syntax": {
+          "keyword": {
+            "color": "#5a4fc0"
+          },
+          "string": {
+            "color": "#3c6f97"
+          },
+          "string.special": {
+            "color": "#3c6f97"
+          },
+          "string.escape": {
+            "color": "#3c6f97"
+          },
+          "function": {
+            "color": "#7a3fb0"
+          },
+          "function.method": {
+            "color": "#7a3fb0"
+          },
+          "number": {
+            "color": "#b34467"
+          },
+          "boolean": {
+            "color": "#b34467"
+          },
+          "constant": {
+            "color": "#b34467"
+          },
+          "type": {
+            "color": "#287673"
+          },
+          "constructor": {
+            "color": "#287673"
+          },
+          "variable.special": {
+            "color": "#9a5c29"
+          },
+          "attribute": {
+            "color": "#9a5c29"
+          },
+          "operator": {
+            "color": "#686a7e"
+          },
+          "punctuation": {
+            "color": "#686a7e"
+          },
+          "punctuation.bracket": {
+            "color": "#686a7e"
+          },
+          "punctuation.delimiter": {
+            "color": "#686a7e"
+          },
+          "comment": {
+            "color": "#656892"
+          },
+          "comment.doc": {
+            "color": "#656892"
+          }
+        }
+      }
+    },
+    {
+      "name": "Candela 10 · Ink & Coral",
+      "appearance": "light",
+      "style": {
+        "background": "#eef0f0",
+        "surface.background": "#f8fafa",
+        "elevated_surface.background": "#f8fafa",
+        "border": "#d8dede",
+        "border.variant": "#d8dede",
+        "text": "#222831",
+        "text.muted": "#4c545d",
+        "text.placeholder": "#636d74",
+        "editor.foreground": "#222831",
+        "editor.background": "#f8fafa",
+        "editor.gutter.background": "#f8fafa",
+        "editor.line_number": "#4c545d",
+        "editor.active_line_number": "#222831",
+        "editor.active_line.background": "#e9eded",
+        "editor.document_highlight.read_background": "#dbe3e3",
+        "terminal.background": "#f8fafa",
+        "terminal.foreground": "#222831",
+        "error": "#963425",
+        "warning": "#815b20",
+        "success": "#237855",
+        "players": [
+          {
+            "cursor": "#222831",
+            "selection": "#dbe3e3",
+            "background": "#222831"
+          }
+        ],
+        "terminal.ansi.black": "#222831",
+        "terminal.ansi.bright_black": "#4c545d",
+        "terminal.ansi.red": "#a3581e",
+        "terminal.ansi.bright_red": "#963425",
+        "terminal.ansi.green": "#2d7857",
+        "terminal.ansi.bright_green": "#237855",
+        "terminal.ansi.yellow": "#16467a",
+        "terminal.ansi.bright_yellow": "#815b20",
+        "terminal.ansi.blue": "#b0402f",
+        "terminal.ansi.bright_blue": "#b0402f",
+        "terminal.ansi.magenta": "#6b3fa0",
+        "terminal.ansi.bright_magenta": "#6b3fa0",
+        "terminal.ansi.cyan": "#0e7683",
+        "terminal.ansi.bright_cyan": "#0e7683",
+        "terminal.ansi.white": "#636d74",
+        "terminal.ansi.bright_white": "#f8fafa",
+        "syntax": {
+          "keyword": {
+            "color": "#16467a"
+          },
+          "string": {
+            "color": "#2d7857"
+          },
+          "string.special": {
+            "color": "#2d7857"
+          },
+          "string.escape": {
+            "color": "#2d7857"
+          },
+          "function": {
+            "color": "#b0402f"
+          },
+          "function.method": {
+            "color": "#b0402f"
+          },
+          "number": {
+            "color": "#a3581e"
+          },
+          "boolean": {
+            "color": "#a3581e"
+          },
+          "constant": {
+            "color": "#a3581e"
+          },
+          "type": {
+            "color": "#6b3fa0"
+          },
+          "constructor": {
+            "color": "#6b3fa0"
+          },
+          "variable.special": {
+            "color": "#0e7683"
+          },
+          "attribute": {
+            "color": "#0e7683"
+          },
+          "operator": {
+            "color": "#5c666e"
+          },
+          "punctuation": {
+            "color": "#5c666e"
+          },
+          "punctuation.bracket": {
+            "color": "#5c666e"
+          },
+          "punctuation.delimiter": {
+            "color": "#5c666e"
+          },
+          "comment": {
+            "color": "#636d74"
+          },
+          "comment.doc": {
+            "color": "#636d74"
+          }
+        }
+      }
+    },
+    {
+      "name": "Candela 11 · Graphite Mono",
+      "appearance": "light",
+      "style": {
+        "background": "#eef0f1",
+        "surface.background": "#f8f9fa",
+        "elevated_surface.background": "#f8f9fa",
+        "border": "#dcdfe1",
+        "border.variant": "#dcdfe1",
+        "text": "#23272b",
+        "text.muted": "#4b5157",
+        "text.placeholder": "#666c72",
+        "editor.foreground": "#23272b",
+        "editor.background": "#f8f9fa",
+        "editor.gutter.background": "#f8f9fa",
+        "editor.line_number": "#4b5157",
+        "editor.active_line_number": "#23272b",
+        "editor.active_line.background": "#e9ecee",
+        "editor.document_highlight.read_background": "#dde1e4",
+        "terminal.background": "#f8f9fa",
+        "terminal.foreground": "#23272b",
+        "error": "#864137",
+        "warning": "#73602f",
+        "success": "#357376",
+        "players": [
+          {
+            "cursor": "#23272b",
+            "selection": "#dde1e4",
+            "background": "#23272b"
+          }
+        ],
+        "terminal.ansi.black": "#23272b",
+        "terminal.ansi.bright_black": "#4b5157",
+        "terminal.ansi.red": "#55606a",
+        "terminal.ansi.bright_red": "#864137",
+        "terminal.ansi.green": "#3a6ea5",
+        "terminal.ansi.bright_green": "#357376",
+        "terminal.ansi.yellow": "#2f4a63",
+        "terminal.ansi.bright_yellow": "#73602f",
+        "terminal.ansi.blue": "#3a4650",
+        "terminal.ansi.bright_blue": "#3a4650",
+        "terminal.ansi.magenta": "#2f3a44",
+        "terminal.ansi.bright_magenta": "#2f3a44",
+        "terminal.ansi.cyan": "#3a6ea5",
+        "terminal.ansi.bright_cyan": "#3a6ea5",
+        "terminal.ansi.white": "#666c72",
+        "terminal.ansi.bright_white": "#f8f9fa",
+        "syntax": {
+          "keyword": {
+            "color": "#2f4a63"
+          },
+          "string": {
+            "color": "#3a6ea5"
+          },
+          "string.special": {
+            "color": "#3a6ea5"
+          },
+          "string.escape": {
+            "color": "#3a6ea5"
+          },
+          "function": {
+            "color": "#3a4650"
+          },
+          "function.method": {
+            "color": "#3a4650"
+          },
+          "number": {
+            "color": "#55606a"
+          },
+          "boolean": {
+            "color": "#55606a"
+          },
+          "constant": {
+            "color": "#55606a"
+          },
+          "type": {
+            "color": "#2f3a44"
+          },
+          "constructor": {
+            "color": "#2f3a44"
+          },
+          "variable.special": {
+            "color": "#3a6ea5"
+          },
+          "attribute": {
+            "color": "#3a6ea5"
+          },
+          "operator": {
+            "color": "#666c73"
+          },
+          "punctuation": {
+            "color": "#666c73"
+          },
+          "punctuation.bracket": {
+            "color": "#666c73"
+          },
+          "punctuation.delimiter": {
+            "color": "#666c73"
+          },
+          "comment": {
+            "color": "#666c72"
+          },
+          "comment.doc": {
+            "color": "#666c72"
+          }
+        }
+      }
+    },
+    {
+      "name": "Candela 12 · Tungsten",
+      "appearance": "light",
+      "style": {
+        "background": "#f4ecd9",
+        "surface.background": "#faf3e1",
+        "elevated_surface.background": "#faf3e1",
+        "border": "#e6d9bd",
+        "border.variant": "#e6d9bd",
+        "text": "#34302a",
+        "text.muted": "#5f5749",
+        "text.placeholder": "#746851",
+        "editor.foreground": "#34302a",
+        "editor.background": "#faf3e1",
+        "editor.gutter.background": "#faf3e1",
+        "editor.line_number": "#5f5749",
+        "editor.active_line_number": "#34302a",
+        "editor.active_line.background": "#f0e8d1",
+        "editor.document_highlight.read_background": "#ecdfbf",
+        "terminal.background": "#faf3e1",
+        "terminal.foreground": "#34302a",
+        "error": "#7c452b",
+        "warning": "#7b5a2a",
+        "success": "#297555",
+        "players": [
+          {
+            "cursor": "#34302a",
+            "selection": "#ecdfbf",
+            "background": "#34302a"
+          }
+        ],
+        "terminal.ansi.black": "#34302a",
+        "terminal.ansi.bright_black": "#5f5749",
+        "terminal.ansi.red": "#a0532f",
+        "terminal.ansi.bright_red": "#7c452b",
+        "terminal.ansi.green": "#656f2b",
+        "terminal.ansi.bright_green": "#297555",
+        "terminal.ansi.yellow": "#a5531e",
+        "terminal.ansi.bright_yellow": "#7b5a2a",
+        "terminal.ansi.blue": "#84651e",
+        "terminal.ansi.bright_blue": "#84651e",
+        "terminal.ansi.magenta": "#8a5a3c",
+        "terminal.ansi.bright_magenta": "#8a5a3c",
+        "terminal.ansi.cyan": "#4b734e",
+        "terminal.ansi.bright_cyan": "#4b734e",
+        "terminal.ansi.white": "#746851",
+        "terminal.ansi.bright_white": "#faf3e1",
+        "syntax": {
+          "keyword": {
+            "color": "#a5531e"
+          },
+          "string": {
+            "color": "#656f2b"
+          },
+          "string.special": {
+            "color": "#656f2b"
+          },
+          "string.escape": {
+            "color": "#656f2b"
+          },
+          "function": {
+            "color": "#84651e"
+          },
+          "function.method": {
+            "color": "#84651e"
+          },
+          "number": {
+            "color": "#a0532f"
+          },
+          "boolean": {
+            "color": "#a0532f"
+          },
+          "constant": {
+            "color": "#a0532f"
+          },
+          "type": {
+            "color": "#8a5a3c"
+          },
+          "constructor": {
+            "color": "#8a5a3c"
+          },
+          "variable.special": {
+            "color": "#4b734e"
+          },
+          "attribute": {
+            "color": "#4b734e"
+          },
+          "operator": {
+            "color": "#6e6552"
+          },
+          "punctuation": {
+            "color": "#6e6552"
+          },
+          "punctuation.bracket": {
+            "color": "#6e6552"
+          },
+          "punctuation.delimiter": {
+            "color": "#6e6552"
+          },
+          "comment": {
+            "color": "#746851"
+          },
+          "comment.doc": {
+            "color": "#746851"
+          }
+        }
+      }
+    },
+    {
+      "name": "Candela 13 · E-Ink Slate",
+      "appearance": "light",
+      "style": {
+        "background": "#eceeec",
+        "surface.background": "#f6f7f5",
+        "elevated_surface.background": "#f6f7f5",
+        "border": "#d9dbd8",
+        "border.variant": "#d9dbd8",
+        "text": "#26292a",
+        "text.muted": "#4e5253",
+        "text.placeholder": "#676b6c",
+        "editor.foreground": "#26292a",
+        "editor.background": "#f6f7f5",
+        "editor.gutter.background": "#f6f7f5",
+        "editor.line_number": "#4e5253",
+        "editor.active_line_number": "#26292a",
+        "editor.active_line.background": "#e8eae8",
+        "editor.document_highlight.read_background": "#dcdedb",
+        "terminal.background": "#f6f7f5",
+        "terminal.foreground": "#26292a",
+        "error": "#644f4c",
+        "warning": "#6a5f50",
+        "success": "#576e65",
+        "players": [
+          {
+            "cursor": "#26292a",
+            "selection": "#dcdedb",
+            "background": "#26292a"
+          }
+        ],
+        "terminal.ansi.black": "#26292a",
+        "terminal.ansi.bright_black": "#4e5253",
+        "terminal.ansi.red": "#5a4d45",
+        "terminal.ansi.bright_red": "#644f4c",
+        "terminal.ansi.green": "#4a5a4a",
+        "terminal.ansi.bright_green": "#576e65",
+        "terminal.ansi.yellow": "#3d4d4a",
+        "terminal.ansi.bright_yellow": "#6a5f50",
+        "terminal.ansi.blue": "#3d4a5a",
+        "terminal.ansi.bright_blue": "#3d4a5a",
+        "terminal.ansi.magenta": "#4d445a",
+        "terminal.ansi.bright_magenta": "#4d445a",
+        "terminal.ansi.cyan": "#455a55",
+        "terminal.ansi.bright_cyan": "#455a55",
+        "terminal.ansi.white": "#676b6c",
+        "terminal.ansi.bright_white": "#f6f7f5",
+        "syntax": {
+          "keyword": {
+            "color": "#3d4d4a"
+          },
+          "string": {
+            "color": "#4a5a4a"
+          },
+          "string.special": {
+            "color": "#4a5a4a"
+          },
+          "string.escape": {
+            "color": "#4a5a4a"
+          },
+          "function": {
+            "color": "#3d4a5a"
+          },
+          "function.method": {
+            "color": "#3d4a5a"
+          },
+          "number": {
+            "color": "#5a4d45"
+          },
+          "boolean": {
+            "color": "#5a4d45"
+          },
+          "constant": {
+            "color": "#5a4d45"
+          },
+          "type": {
+            "color": "#4d445a"
+          },
+          "constructor": {
+            "color": "#4d445a"
+          },
+          "variable.special": {
+            "color": "#455a55"
+          },
+          "attribute": {
+            "color": "#455a55"
+          },
+          "operator": {
+            "color": "#676b6c"
+          },
+          "punctuation": {
+            "color": "#676b6c"
+          },
+          "punctuation.bracket": {
+            "color": "#676b6c"
+          },
+          "punctuation.delimiter": {
+            "color": "#676b6c"
+          },
+          "comment": {
+            "color": "#676b6c"
+          },
+          "comment.doc": {
+            "color": "#676b6c"
+          }
+        }
+      }
+    },
+    {
+      "name": "Candela 14 · Contrast Max",
+      "appearance": "light",
+      "style": {
+        "background": "#f3f4f5",
+        "surface.background": "#fcfcfd",
+        "elevated_surface.background": "#fcfcfd",
+        "border": "#d5d8db",
+        "border.variant": "#d5d8db",
+        "text": "#191c20",
+        "text.muted": "#3f454b",
+        "text.placeholder": "#686f75",
+        "editor.foreground": "#191c20",
+        "editor.background": "#fcfcfd",
+        "editor.gutter.background": "#fcfcfd",
+        "editor.line_number": "#3f454b",
+        "editor.active_line_number": "#191c20",
+        "editor.active_line.background": "#eaecee",
+        "editor.document_highlight.read_background": "#dde1e4",
+        "terminal.background": "#fcfcfd",
+        "terminal.foreground": "#191c20",
+        "error": "#9a3627",
+        "warning": "#855d21",
+        "success": "#247b57",
+        "players": [
+          {
+            "cursor": "#191c20",
+            "selection": "#dde1e4",
+            "background": "#191c20"
+          }
+        ],
+        "terminal.ansi.black": "#191c20",
+        "terminal.ansi.bright_black": "#3f454b",
+        "terminal.ansi.red": "#8a3a12",
+        "terminal.ansi.bright_red": "#9a3627",
+        "terminal.ansi.green": "#1f6b3a",
+        "terminal.ansi.bright_green": "#247b57",
+        "terminal.ansi.yellow": "#7a1f6b",
+        "terminal.ansi.bright_yellow": "#855d21",
+        "terminal.ansi.blue": "#0c2650",
+        "terminal.ansi.bright_blue": "#0c2650",
+        "terminal.ansi.magenta": "#5a2f8a",
+        "terminal.ansi.bright_magenta": "#5a2f8a",
+        "terminal.ansi.cyan": "#0f5f6b",
+        "terminal.ansi.bright_cyan": "#0f5f6b",
+        "terminal.ansi.white": "#686f75",
+        "terminal.ansi.bright_white": "#fcfcfd",
+        "syntax": {
+          "keyword": {
+            "color": "#7a1f6b"
+          },
+          "string": {
+            "color": "#1f6b3a"
+          },
+          "string.special": {
+            "color": "#1f6b3a"
+          },
+          "string.escape": {
+            "color": "#1f6b3a"
+          },
+          "function": {
+            "color": "#0c2650"
+          },
+          "function.method": {
+            "color": "#0c2650"
+          },
+          "number": {
+            "color": "#8a3a12"
+          },
+          "boolean": {
+            "color": "#8a3a12"
+          },
+          "constant": {
+            "color": "#8a3a12"
+          },
+          "type": {
+            "color": "#5a2f8a"
+          },
+          "constructor": {
+            "color": "#5a2f8a"
+          },
+          "variable.special": {
+            "color": "#0f5f6b"
+          },
+          "attribute": {
+            "color": "#0f5f6b"
+          },
+          "operator": {
+            "color": "#565d64"
+          },
+          "punctuation": {
+            "color": "#565d64"
+          },
+          "punctuation.bracket": {
+            "color": "#565d64"
+          },
+          "punctuation.delimiter": {
+            "color": "#565d64"
+          },
+          "comment": {
+            "color": "#686f75"
+          },
+          "comment.doc": {
+            "color": "#686f75"
+          }
+        }
+      }
+    },
+    {
+      "name": "Candela 15 · Nocturne",
+      "appearance": "dark",
+      "style": {
+        "background": "#282c34",
+        "surface.background": "#2d3139",
+        "elevated_surface.background": "#2d3139",
+        "border": "#737c8c",
+        "border.variant": "#737c8c",
+        "text": "#b9c0cb",
+        "text.muted": "#737c8c",
+        "text.placeholder": "#8c94a1",
+        "editor.foreground": "#b9c0cb",
+        "editor.background": "#2d3139",
+        "editor.gutter.background": "#2d3139",
+        "editor.line_number": "#737c8c",
+        "editor.active_line_number": "#b9c0cb",
+        "editor.active_line.background": "#373c44",
+        "editor.document_highlight.read_background": "#3d4351",
+        "terminal.background": "#2d3139",
+        "terminal.foreground": "#b9c0cb",
+        "error": "#ff6682",
+        "warning": "#f9c858",
+        "success": "#3fc5b3",
+        "players": [
+          {
+            "cursor": "#ffcc00",
+            "selection": "#3d4351",
+            "background": "#ffcc00"
+          }
+        ],
+        "terminal.ansi.black": "#b9c0cb",
+        "terminal.ansi.bright_black": "#737c8c",
+        "terminal.ansi.red": "#fd5975",
+        "terminal.ansi.bright_red": "#ff6682",
+        "terminal.ansi.green": "#26ab60",
+        "terminal.ansi.bright_green": "#3fc5b3",
+        "terminal.ansi.yellow": "#ff946b",
+        "terminal.ansi.bright_yellow": "#f9c858",
+        "terminal.ansi.blue": "#5c91ff",
+        "terminal.ansi.bright_blue": "#5c91ff",
+        "terminal.ansi.magenta": "#a180fe",
+        "terminal.ansi.bright_magenta": "#a180fe",
+        "terminal.ansi.cyan": "#57a9db",
+        "terminal.ansi.bright_cyan": "#57a9db",
+        "terminal.ansi.white": "#8c94a1",
+        "terminal.ansi.bright_white": "#2d3139",
+        "syntax": {
+          "keyword": {
+            "color": "#ff946b"
+          },
+          "string": {
+            "color": "#26ab60"
+          },
+          "string.special": {
+            "color": "#26ab60"
+          },
+          "string.escape": {
+            "color": "#26ab60"
+          },
+          "function": {
+            "color": "#5c91ff"
+          },
+          "function.method": {
+            "color": "#5c91ff"
+          },
+          "number": {
+            "color": "#fd5975"
+          },
+          "boolean": {
+            "color": "#fd5975"
+          },
+          "constant": {
+            "color": "#fd5975"
+          },
+          "type": {
+            "color": "#a180fe"
+          },
+          "constructor": {
+            "color": "#a180fe"
+          },
+          "variable.special": {
+            "color": "#57a9db"
+          },
+          "attribute": {
+            "color": "#57a9db"
+          },
+          "operator": {
+            "color": "#b9c0cb"
+          },
+          "punctuation": {
+            "color": "#b9c0cb"
+          },
+          "punctuation.bracket": {
+            "color": "#b9c0cb"
+          },
+          "punctuation.delimiter": {
+            "color": "#b9c0cb"
+          },
+          "comment": {
+            "color": "#8c94a1"
+          },
+          "comment.doc": {
+            "color": "#8c94a1"
+          }
+        }
+      }
+    },
+    {
+      "name": "Candela 16 · Borealis",
+      "appearance": "dark",
+      "style": {
+        "background": "#212121",
+        "surface.background": "#2b2c2c",
+        "elevated_surface.background": "#2b2c2c",
+        "border": "#3d4042",
+        "border.variant": "#3d4042",
+        "text": "#bfd3de",
+        "text.muted": "#7e8990",
+        "text.placeholder": "#80898e",
+        "editor.foreground": "#bfd3de",
+        "editor.background": "#2b2c2c",
+        "editor.gutter.background": "#2b2c2c",
+        "editor.line_number": "#7e8990",
+        "editor.active_line_number": "#bfd3de",
+        "editor.active_line.background": "#313435",
+        "editor.document_highlight.read_background": "#3a5d73",
+        "terminal.background": "#2b2c2c",
+        "terminal.foreground": "#bfd3de",
+        "error": "#ff5f52",
+        "warning": "#f2a63c",
+        "success": "#c3e98b",
+        "players": [
+          {
+            "cursor": "#fa6300",
+            "selection": "#3a5d73",
+            "background": "#fa6300"
+          }
+        ],
+        "terminal.ansi.black": "#bfd3de",
+        "terminal.ansi.bright_black": "#7e8990",
+        "terminal.ansi.red": "#ff526f",
+        "terminal.ansi.bright_red": "#ff5f52",
+        "terminal.ansi.green": "#c3e98b",
+        "terminal.ansi.bright_green": "#c3e98b",
+        "terminal.ansi.yellow": "#ffcb61",
+        "terminal.ansi.bright_yellow": "#f2a63c",
+        "terminal.ansi.blue": "#85dcff",
+        "terminal.ansi.bright_blue": "#85dcff",
+        "terminal.ansi.magenta": "#c78eec",
+        "terminal.ansi.bright_magenta": "#c78eec",
+        "terminal.ansi.cyan": "#7dc9c2",
+        "terminal.ansi.bright_cyan": "#7dc9c2",
+        "terminal.ansi.white": "#80898e",
+        "terminal.ansi.bright_white": "#2b2c2c",
+        "syntax": {
+          "keyword": {
+            "color": "#ffcb61"
+          },
+          "string": {
+            "color": "#c3e98b"
+          },
+          "string.special": {
+            "color": "#c3e98b"
+          },
+          "string.escape": {
+            "color": "#c3e98b"
+          },
+          "function": {
+            "color": "#85dcff"
+          },
+          "function.method": {
+            "color": "#85dcff"
+          },
+          "number": {
+            "color": "#ff526f"
+          },
+          "boolean": {
+            "color": "#ff526f"
+          },
+          "constant": {
+            "color": "#ff526f"
+          },
+          "type": {
+            "color": "#c78eec"
+          },
+          "constructor": {
+            "color": "#c78eec"
+          },
+          "variable.special": {
+            "color": "#7dc9c2"
+          },
+          "attribute": {
+            "color": "#7dc9c2"
+          },
+          "operator": {
+            "color": "#bfd3de"
+          },
+          "punctuation": {
+            "color": "#bfd3de"
+          },
+          "punctuation.bracket": {
+            "color": "#bfd3de"
+          },
+          "punctuation.delimiter": {
+            "color": "#bfd3de"
+          },
+          "comment": {
+            "color": "#80898e"
+          },
+          "comment.doc": {
+            "color": "#80898e"
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+id = "candela-themes"
+name = "Candela Themes"
+version = "0.2.0"
+schema_version = 1
+authors = ["Candela"]
+description = "Candela is a family of color themes tuned for long, comfortable coding sessions. Low-glare backgrounds, desaturated accents, and WCAG-AA contrast throughout — the same palette across your editor and terminal."
+repository = "https://github.com/schovi/candela-themes"
