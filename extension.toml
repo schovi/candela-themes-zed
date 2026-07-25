@@ -1,7 +1,7 @@
 id = "candela-themes"
 name = "Candela Themes"
-version = "0.2.2"
+version = "0.2.3"
 schema_version = 1
 authors = ["Candela"]
-description = "Color themes tuned for long, comfortable coding sessions — low-glare backgrounds, desaturated accents, and WCAG-AA contrast throughout, with the same palette across your editor and terminal."
+description = "Color themes for editors and terminals, tuned for long sessions and tired eyes."
 repository = "https://github.com/schovi/candela-themes"

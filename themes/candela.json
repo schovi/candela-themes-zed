@@ -36,7 +36,7 @@
         ],
         "terminal.ansi.black": "#322f28",
         "terminal.ansi.bright_black": "#5f584b",
-        "terminal.ansi.red": "#925e21",
+        "terminal.ansi.red": "#6d5e1a",
         "terminal.ansi.bright_red": "#853e33",
         "terminal.ansi.green": "#5a6b39",
         "terminal.ansi.bright_green": "#2d7557",
@@ -70,13 +70,13 @@
             "color": "#30577d"
           },
           "number": {
-            "color": "#925e21"
+            "color": "#6d5e1a"
           },
           "boolean": {
-            "color": "#925e21"
+            "color": "#6d5e1a"
           },
           "constant": {
-            "color": "#925e21"
+            "color": "#6d5e1a"
           },
           "type": {
             "color": "#7b5595"
