@@ -17,9 +17,11 @@ Install from Zed: `zed: extensions` → search "Candela", then pick any *Candela
 in the theme selector. Each theme colors the whole window — editor, sidebar, tabs,
 status bar and integrated terminal — so nothing is left on Zed's default gray.
 
+Build your own in the browser: adjust any palette, keep the same contrast rules, export it for your editor — [candela.ink/editor](https://candela.ink/editor).
+
 ## Every theme
 
-All 16 themes, each shown across terminal, TypeScript, Markdown, and git panes.
+All 24 themes, each shown across terminal, TypeScript, Markdown, and git panes.
 
 **01 · Sepia Paper** — light
 
@@ -84,5 +86,37 @@ All 16 themes, each shown across terminal, TypeScript, Markdown, and git panes.
 **16 · Borealis** — dark
 
 ![16 · Borealis](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-16-borealis.png)
+
+**17 · Nightshade** — dark
+
+![17 · Nightshade](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-17-nightshade.png)
+
+**18 · Blue Hour** — dark
+
+![18 · Blue Hour](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-18-blue-hour.png)
+
+**19 · Ember** — dark
+
+![19 · Ember](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-19-ember.png)
+
+**20 · Moss & Magenta** — dark
+
+![20 · Moss & Magenta](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-20-moss-magenta.png)
+
+**21 · Arclight** — dark
+
+![21 · Arclight](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-21-arclight.png)
+
+**22 · Amber Mono** — dark
+
+![22 · Amber Mono](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-22-amber-mono.png)
+
+**23 · Hearth** — dark
+
+![23 · Hearth](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-23-hearth.png)
+
+**24 · Azure Mono** — dark
+
+![24 · Azure Mono](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-24-azure-mono.png)
 
 > Generated from the Candela source of truth — do not edit by hand.
