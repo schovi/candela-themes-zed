@@ -21,7 +21,7 @@ Build your own in the browser: adjust any palette, keep the same contrast rules,
 
 ## Every theme
 
-All 24 themes, each shown across terminal, TypeScript, Markdown, and git panes.
+All 26 themes, each shown across terminal, TypeScript, Markdown, and git panes.
 
 **01 · Sepia Paper** — light
 
@@ -118,5 +118,13 @@ All 24 themes, each shown across terminal, TypeScript, Markdown, and git panes.
 **24 · Azure Mono** — dark
 
 ![24 · Azure Mono](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-24-azure-mono.png)
+
+**25 · Harbor Dawn** — light
+
+![25 · Harbor Dawn](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-25-harbor.png)
+
+**26 · Harbor Dusk** — dark
+
+![26 · Harbor Dusk](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-26-harbor-night.png)
 
 > Generated from the Candela source of truth — do not edit by hand.
