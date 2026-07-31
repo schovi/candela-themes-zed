@@ -23,108 +23,108 @@ Build your own in the browser: adjust any palette, keep the same contrast rules,
 
 All 26 themes, each shown across terminal, TypeScript, Markdown, and git panes.
 
-**01 · Sepia Paper** — light
+**Sepia Paper** — light
 
-![01 · Sepia Paper](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-01-sepia-paper.png)
+![Sepia Paper](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-sepia-paper.png)
 
-**02 · Slate Mist** — light
+**Slate Mist** — light
 
-![02 · Slate Mist](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-02-slate-mist.png)
+![Slate Mist](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-slate-mist.png)
 
-**03 · Sage** — light
+**Sage** — light
 
-![03 · Sage](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-03-sage.png)
+![Sage](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-sage.png)
 
-**04 · Solarized Lite** — light
+**Solarized Lite** — light
 
-![04 · Solarized Lite](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-04-solarized-lite.png)
+![Solarized Lite](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-solarized-lite.png)
 
-**05 · Blossom** — light
+**Blossom** — light
 
-![05 · Blossom](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-05-blossom.png)
+![Blossom](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-blossom.png)
 
-**06 · Lagoon** — light
+**Lagoon** — light
 
-![06 · Lagoon](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-06-lagoon.png)
+![Lagoon](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-lagoon.png)
 
-**07 · Meadow** — light
+**Meadow** — light
 
-![07 · Meadow](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-07-meadow.png)
+![Meadow](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-meadow.png)
 
-**08 · Apricot** — light
+**Apricot** — light
 
-![08 · Apricot](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-08-apricot.png)
+![Apricot](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-apricot.png)
 
-**09 · Periwinkle** — light
+**Periwinkle** — light
 
-![09 · Periwinkle](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-09-periwinkle.png)
+![Periwinkle](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-periwinkle.png)
 
-**10 · Ink & Coral** — light
+**Ink & Coral** — light
 
-![10 · Ink & Coral](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-10-ink-coral.png)
+![Ink & Coral](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-ink-coral.png)
 
-**11 · Graphite Mono** — light
+**E-Ink Slate** — light
 
-![11 · Graphite Mono](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-11-graphite-mono.png)
+![E-Ink Slate](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-eink-slate.png)
 
-**12 · Tungsten** — light
+**Graphite Mono** — light
 
-![12 · Tungsten](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-12-tungsten.png)
+![Graphite Mono](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-graphite-mono.png)
 
-**13 · E-Ink Slate** — light
+**Azure Mono** — dark
 
-![13 · E-Ink Slate](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-13-eink-slate.png)
+![Azure Mono](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-azure-mono.png)
 
-**14 · Contrast Max** — light
+**Hearth Dawn** — light
 
-![14 · Contrast Max](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-14-contrast-max.png)
+![Hearth Dawn](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-hearth-dawn.png)
 
-**15 · Nocturne** — dark
+**Hearth Dusk** — dark
 
-![15 · Nocturne](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-15-nocturne.png)
+![Hearth Dusk](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-hearth-dusk.png)
 
-**16 · Borealis** — dark
+**Arclight Dawn** — light
 
-![16 · Borealis](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-16-borealis.png)
+![Arclight Dawn](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-arclight-dawn.png)
 
-**17 · Nightshade** — dark
+**Arclight Dusk** — dark
 
-![17 · Nightshade](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-17-nightshade.png)
+![Arclight Dusk](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-arclight-dusk.png)
 
-**18 · Blue Hour** — dark
+**Nocturne** — dark
 
-![18 · Blue Hour](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-18-blue-hour.png)
+![Nocturne](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-nocturne.png)
 
-**19 · Ember** — dark
+**Borealis** — dark
 
-![19 · Ember](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-19-ember.png)
+![Borealis](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-borealis.png)
 
-**20 · Moss & Magenta** — dark
+**Nightshade** — dark
 
-![20 · Moss & Magenta](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-20-moss-magenta.png)
+![Nightshade](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-nightshade.png)
 
-**21 · Arclight** — dark
+**Blue Hour** — dark
 
-![21 · Arclight](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-21-arclight.png)
+![Blue Hour](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-blue-hour.png)
 
-**22 · Amber Mono** — dark
+**Ember** — dark
 
-![22 · Amber Mono](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-22-amber-mono.png)
+![Ember](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-ember.png)
 
-**23 · Hearth** — dark
+**Moss & Magenta** — dark
 
-![23 · Hearth](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-23-hearth.png)
+![Moss & Magenta](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-moss-magenta.png)
 
-**24 · Azure Mono** — dark
+**Amber Mono** — dark
 
-![24 · Azure Mono](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-24-azure-mono.png)
+![Amber Mono](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-amber-mono.png)
 
-**25 · Harbor Dawn** — light
+**Harbor Dawn** — light
 
-![25 · Harbor Dawn](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-25-harbor.png)
+![Harbor Dawn](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-harbor-dawn.png)
 
-**26 · Harbor Dusk** — dark
+**Harbor Dusk** — dark
 
-![26 · Harbor Dusk](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-26-harbor-night.png)
+![Harbor Dusk](https://raw.githubusercontent.com/schovi/candela-themes/main/docs/screenshots/examples/candela-harbor-dusk.png)
 
 > Generated from the Candela source of truth — do not edit by hand.
